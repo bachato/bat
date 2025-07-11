@@ -41,10 +41,12 @@
 - Map `.mill` files to Scala syntax for Mill build tool configuration files #3311 (@krikera)
 - Add syntax highlighting for VHDL, see #3337 (@JerryImMouse)
 - Add syntax mapping for certbot certificate configuration #3338 (@cyqsimon)
+- Update Lean syntax from Lean 3 to Lean 4 #3322 (@YDX-2147483647)
 
 ## Themes
 
 - Add Catppuccin, see #3317 (@SchweGELBin)
+- Updated Catppuccin, see #3333 (@SchweGELBin)
 
 ## `bat` as a library
 
